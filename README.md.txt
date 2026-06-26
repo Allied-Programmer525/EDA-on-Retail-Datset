@@ -95,6 +95,6 @@ pip install -r requirements.txt
 
 **Neel Shah**
 
-GitHub: *(Add your GitHub profile link)*
+GitHub: 
 
-LinkedIn: *(Add your LinkedIn profile link)*
+LinkedIn: www.linkedin.com/in/codewith-neel
